@@ -1,0 +1,16 @@
+STUDENT REPORT
+====================
+Name: Raja
+Age: 26
+Course: BCA
+Marks: [89.0, 87.0, 99.0]
+Average: 91.67
+Grade: A
+--------------------
+Name: Vishnu
+Age: 26
+Course: BTech
+Marks: [98.0, 99.0, 100.0]
+Average: 99.00
+Grade: A
+--------------------
