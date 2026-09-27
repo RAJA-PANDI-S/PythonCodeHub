@@ -3,4 +3,4 @@ b = int(input("Enter second number: "))
 
 result = a + b
 
-print("Answer =", result)
+print("Result =", result)

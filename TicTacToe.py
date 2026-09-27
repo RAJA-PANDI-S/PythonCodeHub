@@ -25,7 +25,7 @@ def check_winner(board, player):
 
 def is_board_full(board):
     """Returns True if all positions are taken, False otherwise."""
-    return all(space in ['X', 'O'] for space in board)
+    return all(space in ['x', 'o'] for space in board)
 
 def play_game():
     """Main function to run the Tic-Tac-Toe game loop."""
